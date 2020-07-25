@@ -17,12 +17,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tylim88&show_icons=true&theme=radical&line_height=27" alt="tylim88's github stats" />
 </a>
 
-<a href="https://github.com/tylim88/github-readme-stats">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylim88&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/tylim88/tylim88.github.io">
-  <!-- Change the `github-readme-stats.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tylim88&repo=tylim88.github.io&theme=radical" />
-</a>
-
